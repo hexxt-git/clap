@@ -1,0 +1,12 @@
+[project]
+name = "clap"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "clap-detector>=2.0.7",
+    "pygame>=2.6.1",
+    "pyinstaller>=6.17.0",
+    "setuptools>=80.9.0",
+]
