@@ -3,6 +3,8 @@ import argparse
 from clapDetector import ClapDetector, printDeviceInfo
 import pygame
 import webbrowser
+import sys
+import os
 
 def main(use_browser=False):
     print("""
